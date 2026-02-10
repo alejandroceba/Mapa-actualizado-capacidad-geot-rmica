@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "Mapa.html",
+    "href": "Mapa.html",
+    "title": "Mapa y top 10 países",
+    "section": "",
+    "text": "/tmp/ipykernel_14908/3643256588.py:14: DeprecationWarning:\n\nThe library used by the *country names* `locationmode` option is changing in an upcoming version. Country names in existing plots may not work in the new version. To ensure consistent behavior, consider setting `locationmode` to *ISO-3*."
+  },
+  {
+    "objectID": "Mapa.html#mapa-de-capacidad-instalada-geotérmica",
+    "href": "Mapa.html#mapa-de-capacidad-instalada-geotérmica",
+    "title": "Mapa y top 10 países",
+    "section": "",
+    "text": "/tmp/ipykernel_14908/3643256588.py:14: DeprecationWarning:\n\nThe library used by the *country names* `locationmode` option is changing in an upcoming version. Country names in existing plots may not work in the new version. To ensure consistent behavior, consider setting `locationmode` to *ISO-3*."
+  }
+]
